@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "location": "Santorini, Greece",
+    "title": "Mediterranean Paradise",
+    "description": "Experience breathtaking sunsets, white-washed buildings, and crystal clear waters in this iconic Greek island.",
+    "price": 1299,
+    "rating": 4.8,
+    "duration": "7 days",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": 2,
+    "location": "Bali, Indonesia",
+    "title": "Tropical Escape",
+    "description": "Discover ancient temples, lush rice terraces, and pristine beaches in this Indonesian paradise.",
+    "price": 899,
+    "rating": 4.7,
+    "duration": "10 days",
+    "image": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": 3,
+    "location": "Paris, France",
+    "title": "City of Romance",
+    "description": "Explore iconic landmarks, world-class museums, and charming cafés in the heart of Europe.",
+    "price": 1599,
+    "rating": 4.9,
+    "duration": "5 days",
+    "image": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "location": "Tokyo, Japan",
+    "title": "Modern Metropolis",
+    "description": "Immerse yourself in cutting-edge technology, traditional culture, and incredible cuisine.",
+    "price": 1799,
+    "rating": 4.6,
+    "duration": "8 days",
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": 5,
+    "location": "Kyoto, Japan",
+    "title": "Traditional Heritage",
+    "description": "Explore ancient temples, beautiful gardens, and rich cultural heritage in Japan's historic city.",
+    "price": 1399,
+    "rating": 4.7,
+    "duration": "7 days",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+    
+  },
+  {
+    "id": 6,
+    "location": "Machu Picchu, Peru",
+    "title": "Ancient Wonder",
+    "description": "Trek through the Andes to discover the mysterious ruins of this ancient Incan citadel.",
+    "price": 1199,
+    "rating": 4.8,
+    "duration": "9 days",
+    "image": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  }
+  
+]
